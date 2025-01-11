@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sharat Gujamagadi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sharat
+last_name: Gujamagadi
 
 # Status emoji
 status:
@@ -20,92 +20,92 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Lead Computer Vision Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Mercedes-Benz Research and Development India
+    url: https://www.mbrdi.co.in/#/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sharatcg7@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/sharatcg7/?igsh=ZXd0eW41YmF3NTM4&utm_source=qr
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/Sharatcg7
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?hl=en&user=j7IGjlIAAAAJ
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Deep Learning
+  - Autonomous Driving
+  - Semiconductor
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Masters in Automotive Software Engineering
+    institution: Technische Universität Chemnitz, Germany
+    date_start: 2019-04-01
+    date_end: 2021-05-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Unsupervised Temporal Consistency (TC) Loss Function. Supervised by [Prof Dr. Julien Vitay](https://julien-vitay.net/about.html). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://openaccess.thecvf.com/content/CVPR2021W/SAIAD/papers/Varghese_An_Unsupervised_Temporal_Consistency_TC_Loss_To_Improve_the_Performance_CVPRW_2021_paper.pdf'
+  - area: Bachelor in electronics and communication engineering
+    institution: B. V. Bhoomaraddi College of Engineering and Technology, India
+    date_start: 2012-10-01
+    date_end: 2015-05-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 2.0/5.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - AUTOSAR and Infotainment Systems
+      - Data Structures using C
+      - Microcontroller Programming
+      - Embedded Systems
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Senior Software Engineer
+    company_name: Mercedes-Benz Research and Development India
+    company_url: 'https://www.mbrdi.co.in/#/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-05-10
+    date_end: '2024-11-15'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Implemented computer vision algorithms such as Bird’s Eye View (BEV) for 3D objects detection
+      - Engineered innovative methods to mitigate the impact of camera degradation for autonomous driving
+      - Implemented deep learning models like Variational Autoencoders (VAE) for predicting agent trajectories
+      - Implemented data visualization dashboards using GeoPandas and Folium 
+  - position: Deep learning Intern
+    company_name: Volkswagen AG
+    company_url: 'https://www.volkswagen-group.com/en'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-13
+    date_end: 2021-03-26
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Contribution to the German Federal Ministry for Economic Affairs and Climate Action funded project [VDA KI-Absicherung](https://www.ki-absicherung-projekt.de/en/project)
+      - Designed and implemented a novel loss function to optimize the performance of deep neural networks
+      - State-of-the-art research and implementation of environment perception models
+  - position: Senior System Engineer
+    company_name: Infosys Ltd
+    company_url: 'https://www.infosys.com/'
+    company_logo: ''
+    date_start: 2015-07-31
+    date_end: 2018-07-31
+    summary: |
+      Responsibilities include:
+      - Designed and developed software application features using object-oriented concepts
+      - Hands-on experience in text detection and OCR technologies using Ephesof
+      - Implemented Web APIs using REST architecture
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -143,11 +143,13 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 90
+  - name: German
     percent: 25
+  - name: Hindi
+    percent: 90
+  - name: Kannada
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sharat Gujamagadi is a technical lead for image processing in semi conducator domain. My research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
